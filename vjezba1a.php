@@ -1,6 +1,6 @@
 <?php
 $naslov = "Moj prvi PHP dokument";
-$autor = "Daniel Lacković";
+$autor = "Daniel Lackovic";
 
 echo "<h1>$naslov</h1>";
 echo "<p>Ovu stranicu izgradio je <strong>$autor</strong>.</p>";
